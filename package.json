@@ -1,0 +1,26 @@
+{
+  "name": "express-drill-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshbardsley1202/express-drill-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshbardsley1202/express-drill-3/issues"
+  },
+  "homepage": "https://github.com/joshbardsley1202/express-drill-3#readme",
+  "dependencies": {
+    "convert-csv-to-json": "0.0.13",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
